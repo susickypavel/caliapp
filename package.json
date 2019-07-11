@@ -1,0 +1,24 @@
+{
+  "name": "caliapp",
+  "version": "1.0.0",
+  "description": "Calisthenics app",
+  "main": "index.js",
+  "repository": "git@github.com:Thesoreon/caliapp.git",
+  "author": "Pavel Sušický <pavels.sus@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^9.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.5.3"
+  }
+}
