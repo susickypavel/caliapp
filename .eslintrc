@@ -18,5 +18,11 @@
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/member-delimiter-style": "off",
     "react/prop-types": "off"
+  },
+  "env": {
+    "browser": true,
+    "amd": true,
+    "node": true,
+    "jest": true
   }
 }
